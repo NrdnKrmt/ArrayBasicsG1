@@ -17,7 +17,7 @@ public class Main {
 
         // 2
         System.out.println("Aufgabe 2");
-        int sum = 0;
+        int sum = numbers[0];
 
         for (int number : numbers) {
             sum = sum + number;
